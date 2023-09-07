@@ -12,13 +12,13 @@
 ![联系作者](https://skywalking.pro/download/platform/main-platform.png "联系作者.png")
 
  **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
- **17001380020 微信同号**  
+ **SkywalkingPro 微信同号**  
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
 **系统功能持续更新中。。。**
 #### 介绍
- **这是一个基于SpringBoot2.X VUE2.6 Antd1.7.2  MyBatisPlus Shiro1.5.0 Java1.8 实现的具备系统管理、权限管理、体检机构管理、体检项目管理、体检预约信息管理、小程序轮播图管理功能、小程序用户管理功能多个功能的体检预约系统， 可作为商用、毕业设计项目、快速开发模版项目。作者联系方式（WX:17001380020）见文末。** 
+ **这是一个基于SpringBoot2.X VUE2.6 Antd1.7.2  MyBatisPlus Shiro1.5.0 Java1.8 实现的具备系统管理、权限管理、体检机构管理、体检项目管理、体检预约信息管理、小程序轮播图管理功能、小程序用户管理功能多个功能的体检预约系统， 可作为商用、毕业设计项目、快速开发模版项目。作者联系方式（WX:SkywalkingPro）见文末。** 
 #### 项目所用技术
 |技术点   | 描述  | 备注   |
 | :------------: | :------------: | :------------: |
@@ -268,7 +268,7 @@
 ####  **联系作者** 
 
  **这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者。**  
- **17001380020 微信同号**  
+ **SkywalkingPro 微信同号**  
 
 ![微信二维码-1](https://singer-coder-public.oss-cn-chengdu.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81-1.png?x-oss-process=image/resize,p_50 "微信二维码-1.png")
 
