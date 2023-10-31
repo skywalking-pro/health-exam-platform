@@ -54,7 +54,7 @@
 #### 微信号: SkywalkingPro
 #### 系统演示地址:
 ```
-登录地址: https://www.skywalking.pro/physical-exam-platform
+登录地址: https://www.skywalking.pro/health-exam
 登录账号: admin
 登录密码: 123456
 ```
@@ -258,7 +258,7 @@
 	+ 小程序用户单个删除
 #### 演示地址
 ```
-登录地址: https://www.skywalking.pro/physical-exam-platform
+登录地址: https://www.skywalking.pro/health-exam
 登录账号: admin
 登录密码: 123456
 ```
