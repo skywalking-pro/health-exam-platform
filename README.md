@@ -110,7 +110,7 @@
 ### 系统截图展示
 
 #### 小程序相关模块
-![小程序登陆模块](https://skywalking.pro/download/images/physical-exam-platform/WX20230428-154455@2x.png "小程序登陆模块.png")
+![小程序登陆模块](https://skywalking.pro/download/images/physical-exam-platform/WX20230428-154455@2x.png "小程序登陆模块.png") 
 ![小程序首页模块](https://skywalking.pro/download/images/physical-exam-platform/WX20230428-160605@2x.png "小程序首页模块.png")
 ![个人中心模块](https://skywalking.pro/download/images/physical-exam-platform/WX20230428-160709@2x.png "个人中心模块.png")
 ![更新个人信息模块](https://skywalking.pro/download/images/physical-exam-platform/WX20230428-160825@2x.png "更新个人信息模块.png")
